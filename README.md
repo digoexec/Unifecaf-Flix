@@ -34,7 +34,7 @@ unifecaf-flix-api/
 │   ├── models/       # Modelos de dados e interação com MySQL
 │   ├── routes/       # Definição das rotas da API
 │   └── index.js      # Ponto de entrada da aplicação
-├── .env.example      # Exemplo de variáveis de ambiente
+├── .env              # Exemplo de variáveis de ambiente
 ├── database.sql      # Script de criação do banco e dados iniciais
 └── package.json      # Dependências e scripts do projeto
 ```
